@@ -1,6 +1,9 @@
 # Self-Driving-F1Tenth-Car
 A repository for the driver code in a self driving car simulation, using the F1Tenth robot.
 
+Based off the ESWeek simulation guide found here:
+https://github.com/f1tenth/ESweek2021_educationclassA3
+
 # Environment Installation guide
 
 1. Start by installing a Virtual Environment (`virtualenv`) with Python 3.8 in the repository:
